@@ -30,3 +30,7 @@ nav div#navbar-container ul li a {
   text-decoration: none;
   padding: 10px 20px;
 }
+
+nav div#navbar-container ul li a:hover {
+  background-color: #000;
+}
