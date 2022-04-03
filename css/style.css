@@ -34,3 +34,7 @@ nav div#navbar-container ul li a {
 nav div#navbar-container ul li a:hover {
   background-color: #000;
 }
+
+nav div ul li#onpage {
+  text-decoration: underline overline;
+}
