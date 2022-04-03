@@ -1,0 +1,32 @@
+nav#main-navbar {
+  background-color: blue;
+  overflow: hidden; 
+}
+
+nav div#navbar-container {
+  width: 100%;
+  position: relative;
+}
+
+nav div#navbar-container ul {
+  list-style-type: none;
+  float: left;  
+  padding: 0;
+  margin: 0;
+  left: 50%;    
+  position: relative;
+}
+
+nav div#navbar-container ul li {
+  display: block;
+  right: 50%;  
+  position: relative;
+  float: left;
+}
+
+nav div#navbar-container ul li a {  
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
