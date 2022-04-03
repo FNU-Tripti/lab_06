@@ -59,3 +59,7 @@ div div#sidebar-container ul {
   color: #fff;
   text-decoration: none;
 }
+
+#sidebar-container ul li a:hover {
+  background-color: #000;
+}
